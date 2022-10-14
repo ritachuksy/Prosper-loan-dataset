@@ -31,3 +31,12 @@ Also, we can say that increase in both loan amount and monthly income decreases 
 
 > During this investigation, I focus mainly on finding out the variables that influences borrowers APR and investors Estimated return. I started by introducing the estimated return by plotting its distribution and I tried calculating the actual return by using Prosper's Net Annualized formula but couldn’t get accurate result due to some other factors that are far-fetched. 
 However, I used various plots, to explore extensively on the relationship among all my variables of interest.
+
+
+## Requirement
+import numpy 
+import pandas 
+import matplotlib.pyplot
+import seaborn 
+from IPython.display import HTML, display
+%matplotlib inline
